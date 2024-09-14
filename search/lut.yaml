@@ -1,0 +1,430 @@
+avg_pool__2__32*32:
+  count: 245
+  energy: 0
+  memory: 0.0
+  time: 0.04474305320455104
+avg_pool__3__224*224:
+  count: 196
+  energy: 0
+  memory: 183.3545918367347
+  time: 0.12000946887787815
+avg_pool__3__32*32:
+  count: 245
+  energy: 0
+  memory: 0.0
+  time: 0.44359470897791337
+backbone__32__32__640*640:
+  count: 16551
+  energy: 0
+  memory: 865498.862243973
+  time: 30.410717153281265
+backbone_c2f__32__32__640*640:
+  count: 16551
+  energy: 0
+  memory: 1054660.9903329173
+  time: 31.01209291231463
+backbone_direct__32__32__640*640:
+  count: 16551
+  energy: 0
+  memory: 757493.3228807929
+  time: 13.91703046838234
+backbone_single__32__32__640*640:
+  count: 16551
+  energy: 0
+  memory: 873906.6674521181
+  time: 22.872364412354667
+conv__128__256__3__2__1__32*32:
+  count: 245
+  energy: 0
+  memory: 1.126953125
+  time: 0.4552395768311559
+conv__16__24__3__2__-1__224*224:
+  count: 392
+  energy: 0
+  memory: 10764.649234693878
+  time: 1.073108408143934
+conv__16__24__3__2__-1__32*32:
+  count: 1960
+  energy: 0
+  memory: 0.013412475585937502
+  time: 0.7745499109583246
+conv__16__24__5__2__-1__224*224:
+  count: 392
+  energy: 0
+  memory: 10764.003826530612
+  time: 1.147658288478851
+conv__16__24__5__2__-1__32*32:
+  count: 1960
+  energy: 0
+  memory: 0.036849975585937354
+  time: 0.9246151513667131
+conv__24__32__3__2__0__224*224:
+  count: 392
+  energy: 0
+  memory: 3381.367346938776
+  time: 0.7671542038798943
+conv__24__32__3__2__0__32*32:
+  count: 1960
+  energy: 0
+  memory: 0.02667236328125
+  time: 0.5747281130859434
+conv__24__32__5__2__1__224*224:
+  count: 392
+  energy: 0
+  memory: 3126.0
+  time: 0.7422988553512464
+conv__24__32__5__2__1__32*32:
+  count: 1960
+  energy: 0
+  memory: 0.07354736328125006
+  time: 0.6649857141685733
+conv__256__512__3__2__1__32*32:
+  count: 245
+  energy: 0
+  memory: 4.50390625
+  time: 0.5660116915800136
+conv__32__64__3__2__0__224*224:
+  count: 392
+  energy: 0
+  memory: 1148.9591836734692
+  time: 0.7542820416999108
+conv__32__64__3__2__0__32*32:
+  count: 1960
+  energy: 0
+  memory: 0.07092285156249992
+  time: 0.4797626934945581
+conv__32__64__5__2__1__224*224:
+  count: 392
+  energy: 0
+  memory: 1148.9591836734692
+  time: 0.7023469430147382
+conv__32__64__5__2__1__32*32:
+  count: 1960
+  energy: 0
+  memory: 0.19592285156250006
+  time: 0.4777279682457447
+conv__3__16__3__2__0__224*224:
+  count: 196
+  energy: 0
+  memory: 7175.744897959184
+  time: 2.5825721106054824
+conv__3__16__3__2__0__32*32:
+  count: 980
+  energy: 0
+  memory: 0.00177001953125
+  time: 1.0369640840863692
+conv__3__64__3__1__1__32*32:
+  count: 245
+  energy: 0
+  memory: 0.007080078125
+  time: 2.3492931687102026
+conv__64__128__3__2__1__32*32:
+  count: 245
+  energy: 0
+  memory: 0.2822265625
+  time: 0.5080953478813175
+conv__64__184__5__2__-1__224*224:
+  count: 392
+  energy: 0
+  memory: 3383.545918367347
+  time: 1.2072350992536045
+conv__64__184__5__2__-1__32*32:
+  count: 1960
+  energy: 0
+  memory: 1.1248016357421908
+  time: 0.9959726690637842
+conv__64__64__3__1__1__32*32:
+  count: 245
+  energy: 0
+  memory: 0.14111328125
+  time: 0.8165351174315628
+dbr__128__256__3__2__32*32:
+  count: 245
+  energy: 0
+  memory: 0.13232421875
+  time: 0.46415529895801927
+dbr__256__512__3__2__32*32:
+  count: 245
+  energy: 0
+  memory: 0.5146484375
+  time: 0.5229106937135971
+dbr__64__128__3__2__32*32:
+  count: 245
+  energy: 0
+  memory: 0.034912109375
+  time: 0.430048783458009
+dbr__64__64__3__1__32*32:
+  count: 245
+  energy: 0
+  memory: 0.0185546875
+  time: 0.908629679923155
+final__184__1000__224*224:
+  count: 196
+  energy: 0
+  memory: 1222.2959183673458
+  time: 0.5409495527951084
+final__184__1000__32*32:
+  count: 980
+  energy: 0
+  memory: 0.705718994140625
+  time: 0.3390356242352602
+flexible_residual_layer__128__256__2__1__2__normal__32*32:
+  count: 245
+  energy: 0
+  memory: 1.0146484375
+  time: 1.75856940211082
+flexible_residual_layer__128__256__2__3__2__dp__32*32:
+  count: 245
+  energy: 0
+  memory: 1.0458984375
+  time: 2.1103921666437264
+flexible_residual_layer__128__256__2__5__2__normal__32*32:
+  count: 245
+  energy: 0
+  memory: 22.0146484375
+  time: 3.9048363043337453
+flexible_residual_layer__128__256__2__7__2__normal__32*32:
+  count: 245
+  energy: 0
+  memory: 43.0146484375
+  time: 6.0809177924175675
+flexible_residual_layer__256__512__2__1__2__normal__32*32:
+  count: 245
+  energy: 0
+  memory: 4.029296875
+  time: 2.2556756944072496
+flexible_residual_layer__256__512__2__3__2__dp__32*32:
+  count: 245
+  energy: 0
+  memory: 4.091796875
+  time: 2.5020094637968087
+flexible_residual_layer__256__512__2__5__2__normal__32*32:
+  count: 245
+  energy: 0
+  memory: 88.029296875
+  time: 4.542193251240004
+flexible_residual_layer__256__512__2__7__2__normal__32*32:
+  count: 245
+  energy: 0
+  memory: 172.029296875
+  time: 6.8713402709182425
+flexible_residual_layer__64__128__2__1__2__normal__32*32:
+  count: 245
+  energy: 0
+  memory: 0.25732421875
+  time: 1.5068559675800555
+flexible_residual_layer__64__128__2__3__2__dp__32*32:
+  count: 245
+  energy: 0
+  memory: 0.27294921875
+  time: 1.852040357492408
+flexible_residual_layer__64__128__2__5__2__normal__32*32:
+  count: 245
+  energy: 0
+  memory: 5.50732421875
+  time: 4.638861722362287
+flexible_residual_layer__64__128__2__7__2__normal__32*32:
+  count: 245
+  energy: 0
+  memory: 10.75732421875
+  time: 6.07025474820818
+flexible_residual_layer__64__64__2__1__1__normal__32*32:
+  count: 245
+  energy: 0
+  memory: 0.0654296875
+  time: 3.017437123279182
+flexible_residual_layer__64__64__2__3__1__dp__32*32:
+  count: 245
+  energy: 0
+  memory: 0.07421875
+  time: 3.805156438204707
+flexible_residual_layer__64__64__2__5__1__normal__32*32:
+  count: 245
+  energy: 0
+  memory: 1.5654296875
+  time: 8.583767540600839
+flexible_residual_layer__64__64__2__7__1__normal__32*32:
+  count: 245
+  energy: 0
+  memory: 3.0654296875
+  time: 8.498373376106725
+fpn__32__32__640*640:
+  count: 16551
+  energy: 0
+  memory: 202337.88931182405
+  time: 16.17716044168476
+max_pool__2__32*32:
+  count: 245
+  energy: 0
+  memory: 0.0
+  time: 0.06319255523231566
+max_pool__3__224*224:
+  count: 196
+  energy: 0
+  memory: 183.3545918367347
+  time: 0.18568408244042364
+max_pool__3__32*32:
+  count: 245
+  energy: 0
+  memory: 0.0
+  time: 0.567462271087023
+residual_fc__512__100__32*32:
+  count: 245
+  energy: 0
+  memory: 0.1956939697265625
+  time: 0.15485662051609572
+residual_fc__512__10__32*32:
+  count: 245
+  energy: 0
+  memory: 0.01956939697265625
+  time: 0.45608751007488807
+residual_layer__128__256__2__2__false__32*32:
+  count: 245
+  energy: 0
+  memory: 8.009765625
+  time: 2.5894520185431644
+residual_layer__128__256__2__2__true__32*32:
+  count: 245
+  energy: 0
+  memory: 3.005859375
+  time: 1.664442643827322
+residual_layer__128__256__3__2__false__32*32:
+  count: 245
+  energy: 0
+  memory: 12.513671875
+  time: 3.3825264376036985
+residual_layer__128__256__3__2__true__32*32:
+  count: 245
+  energy: 0
+  memory: 4.8212890625
+  time: 2.3316039854166455
+residual_layer__128__256__4__2__false__32*32:
+  count: 245
+  energy: 0
+  memory: 17.017578125
+  time: 4.423215144021171
+residual_layer__128__256__4__2__true__32*32:
+  count: 245
+  energy: 0
+  memory: 6.63671875
+  time: 3.0758529264099748
+residual_layer__256__512__2__2__false__32*32:
+  count: 245
+  energy: 0
+  memory: 32.01953125
+  time: 3.1603923612711378
+residual_layer__256__512__2__2__true__32*32:
+  count: 245
+  energy: 0
+  memory: 12.01171875
+  time: 2.133036278705205
+residual_layer__256__512__3__2__false__32*32:
+  count: 245
+  energy: 0
+  memory: 50.02734375
+  time: 4.223936017678705
+residual_layer__256__512__3__2__true__32*32:
+  count: 245
+  energy: 0
+  memory: 19.267578125
+  time: 2.9292177044615455
+residual_layer__256__512__4__2__false__32*32:
+  count: 245
+  energy: 0
+  memory: 68.03515625
+  time: 5.504910369795196
+residual_layer__256__512__4__2__true__32*32:
+  count: 245
+  energy: 0
+  memory: 26.5234375
+  time: 3.91573942729405
+residual_layer__64__128__2__2__false__32*32:
+  count: 245
+  energy: 0
+  memory: 2.0048828125
+  time: 2.4996749021569076
+residual_layer__64__128__2__2__true__32*32:
+  count: 245
+  energy: 0
+  memory: 0.7529296875
+  time: 1.826978218312166
+residual_layer__64__128__3__2__false__32*32:
+  count: 245
+  energy: 0
+  memory: 3.1318359375
+  time: 3.1925360377953984
+residual_layer__64__128__3__2__true__32*32:
+  count: 245
+  energy: 0
+  memory: 1.20751953125
+  time: 2.423094989815537
+residual_layer__64__128__4__2__false__32*32:
+  count: 245
+  energy: 0
+  memory: 4.2587890625
+  time: 4.135684977745523
+residual_layer__64__128__4__2__true__32*32:
+  count: 245
+  energy: 0
+  memory: 1.662109375
+  time: 3.19485387802124
+residual_layer__64__64__2__1__false__32*32:
+  count: 245
+  energy: 0
+  memory: 0.564453125
+  time: 3.8307245692428276
+residual_layer__64__64__2__1__true__32*32:
+  count: 245
+  energy: 0
+  memory: 0.22802734375
+  time: 2.3406639079658347
+residual_layer__64__64__3__1__false__32*32:
+  count: 245
+  energy: 0
+  memory: 0.8466796875
+  time: 5.351795982827945
+residual_layer__64__64__3__1__true__32*32:
+  count: 245
+  energy: 0
+  memory: 0.342041015625
+  time: 3.109900280894067
+residual_layer__64__64__4__1__false__32*32:
+  count: 245
+  energy: 0
+  memory: 1.12890625
+  time: 7.0983022864984004
+residual_layer__64__64__4__1__true__32*32:
+  count: 245
+  energy: 0
+  memory: 0.4560546875
+  time: 4.12995122792769
+skip__16__16__224*224:
+  count: 196
+  energy: 0
+  memory: 3591.566326530612
+  time: 0.6003951027761312
+skip__16__16__32*32:
+  count: 980
+  energy: 0
+  memory: 0.0010986328125
+  time: 0.492350660629419
+skip__16__24__224*224:
+  count: 196
+  energy: 0
+  memory: 5381.058673469388
+  time: 0.4949732228201264
+skip__16__24__32*32:
+  count: 980
+  energy: 0
+  memory: 0.00164794921875
+  time: 0.6307892246513953
+skip__64__64__32*32:
+  count: 245
+  energy: 0
+  memory: 0.01611328125
+  time: 0.5732353318710718
+yolo_head__32__640*640:
+  count: 16551
+  energy: 0
+  memory: 47577.37046099933
+  time: 5.800982340622032
